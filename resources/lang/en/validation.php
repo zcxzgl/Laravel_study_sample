@@ -1,3 +1,4 @@
+
 <?php
 
 return [
@@ -103,6 +104,7 @@ return [
         'attribute-name' => [
             'rule-name' => 'custom-message',
         ],
+
     ],
 
     /*
